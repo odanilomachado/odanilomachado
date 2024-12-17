@@ -1,6 +1,6 @@
 ### Sobre
 - 👋 Físico experimental e Engenheiro de Dados.
-- 🛠️ SQL, Python, Spark, ETL, Data Warehouse, Data Lake, Airflow.
+- 🛠️ SQL, Python, Spark, ETL, Data Warehouse, Data Lake, Airflow e AWS.
 
 ### Contatos
 <p align='left'>
