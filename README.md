@@ -4,6 +4,7 @@
 
 ### Projetos
 - [Extração e Carregamento em Buckets S3](https://github.com/odanilomachado/data_extraction_load_s3)
+- [Automação com Apache Airflow da ingestão de dados no PostgreSQL](https://github.com/odanilomachado/postgres_ingestion_airflow)
 
 ### Contatos
 <p align='left'>
