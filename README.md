@@ -8,7 +8,7 @@
 
 ### Contatos
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/odanilomachado)(mailto:danilomd18@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/odanilomachado)[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:danilomd18@gmail.com)
 
 <p align='left'>
    <a href="https://www.linkedin.com/in/odanilomachado" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
