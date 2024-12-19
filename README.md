@@ -2,7 +2,7 @@
 - 👋 Físico experimental e Engenheiro de Dados.
 - 🛠️ SQL, Python, Spark, ETL, Data Warehouse, Data Lake, Airflow e AWS.
 
-[My Skills](https://skillicons.dev/icons?i=postgres,mysql,py,aws,)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,py,aws)]
 
 ### Projetos
 - [Extração e Carregamento em Buckets S3](https://github.com/odanilomachado/data_extraction_load_s3)
